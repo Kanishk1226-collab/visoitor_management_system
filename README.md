@@ -4,18 +4,31 @@ PASSWORD : manoj123
 
 ## LOGIN PAGE
 ![image](https://user-images.githubusercontent.com/67378252/118777195-698f1a00-b8a6-11eb-942b-0f9593f53ce0.png)
+![image](https://user-images.githubusercontent.com/67378252/118779663-e4f1cb00-b8a8-11eb-9a64-bd624e0dbf91.png)
 
-![image](https://user-images.githubusercontent.com/67378252/116357184-d5d3ac00-a819-11eb-898c-1a17fd1e3061.png)
+## HOME PAGE
+![image](https://user-images.githubusercontent.com/67378252/118777491-be329500-b8a6-11eb-87df-fd71b0d5cfe0.png)
+
 ## ADDING NEW VISITOR
-![image](https://user-images.githubusercontent.com/67378252/116357513-28ad6380-a81a-11eb-8073-629caae03d4c.png)
+![image](https://user-images.githubusercontent.com/67378252/118777661-ef12ca00-b8a6-11eb-9b07-60c3762eadd8.png)
+
 ## VIEW VISITORS
-![image](https://user-images.githubusercontent.com/67378252/116357704-66aa8780-a81a-11eb-9c9f-abcfdb16dc0d.png)
+![image](https://user-images.githubusercontent.com/67378252/118777790-149fd380-b8a7-11eb-85a5-d6d08a24ac44.png)
+
 ## SEARCHING VISITORS BETWEEN SPECIFIC DATE_TIME
-![image](https://user-images.githubusercontent.com/67378252/116357989-c739c480-a81a-11eb-88fe-83f856ccd946.png)
-## RESULT OF SEARCHING VISTORS BETWEEN SPECIFIC DATE_TIME
-![image](https://user-images.githubusercontent.com/67378252/116358193-fd774400-a81a-11eb-8782-986f966da0f4.png)
+![image](https://user-images.githubusercontent.com/67378252/118777948-41ec8180-b8a7-11eb-927b-b497ca98e961.png)
+
+## RESULT OF SEARCHING VISTORS BETWEEN SPECIFIC DATE_TIME       
+![image](https://user-images.githubusercontent.com/67378252/118778294-92fc7580-b8a7-11eb-97aa-53e2add250e8.png)
+
 ## MAXIMUM NO. OF PERSONS TO VISIT
-![image](https://user-images.githubusercontent.com/67378252/116358412-429b7600-a81b-11eb-985c-65b2d59b79e7.png)
+![image](https://user-images.githubusercontent.com/67378252/118778733-056d5580-b8a8-11eb-8636-6097be045520.png)
+![image](https://user-images.githubusercontent.com/67378252/118778910-3188d680-b8a8-11eb-9528-e364ffe0d153.png)
+
 ## MAXIMUM REASONS TO VISIT
-![image](https://user-images.githubusercontent.com/67378252/116358640-7f676d00-a81b-11eb-9b88-07fc5e0eb140.png)
+![image](https://user-images.githubusercontent.com/67378252/118779046-4ebda500-b8a8-11eb-9398-21f5a6fc5721.png)
+![image](https://user-images.githubusercontent.com/67378252/118779197-701e9100-b8a8-11eb-8720-a8cb75422486.png)
+
+## REPORT GENERATION           
+![image](https://user-images.githubusercontent.com/67378252/118779444-aa882e00-b8a8-11eb-8897-34c38e76e6d5.png)
 
