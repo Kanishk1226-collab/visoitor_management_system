@@ -1,10 +1,10 @@
 # visitor_management_system
 USERNAME : Manoj
-PASSWORD : manoj 
+PASSWORD : manoj123
 
 ## LOGIN PAGE
-![image](https://user-images.githubusercontent.com/67378252/116357023-a2911d00-a819-11eb-9fa8-30919f1d8d04.png)
-## HOME PAGE
+![image](https://user-images.githubusercontent.com/67378252/118777195-698f1a00-b8a6-11eb-942b-0f9593f53ce0.png)
+
 ![image](https://user-images.githubusercontent.com/67378252/116357184-d5d3ac00-a819-11eb-898c-1a17fd1e3061.png)
 ## ADDING NEW VISITOR
 ![image](https://user-images.githubusercontent.com/67378252/116357513-28ad6380-a81a-11eb-8073-629caae03d4c.png)
